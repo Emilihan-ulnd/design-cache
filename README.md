@@ -97,3 +97,5 @@ Apache-2.0 • one person project
 # PR Merge: 2025-10-18 - fix/merge-9485
 
 # PR Merge: 2025-10-18 - enhancement/merge-5793
+
+# PR Update: 2025-10-18 - fix/update-2739
